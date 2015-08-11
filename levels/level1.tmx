@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="sheet16" tilewidth="16" tileheight="16">
+  <image source="../img/sheet16.png" width="256" height="256"/>
+ </tileset>
+ <layer name="underlay" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMBKHj+4ceLIeCq6aqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqv4DIkZOIQ==
+  </data>
+ </layer>
+ <layer name="overlay" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztmelqxDAMhFv6/u/c9kdpCJvEx1zyumDKQjbWzOdD0n59/Px9jo2vD9wYjeEYh1PDTPzHWI7/qw6kJ04Nd58rjeo8rmJP09QaD5qH0oenudKYOHio+PWsN2Ycq/FQMETnDEx+Dh4z87H3k9uHUR4OfYjc3s2AxSMh9gpM7uZz8Uhb1ynrr+L+YN6bKbEk8GiZ071vXb60epNU663KJPG8Sr9zE3iozhfX2khhkrQ/3HH0zM/yLYXH0/pUnfNuLxJ4MM45R0/m7j2ufrtTe9XfDVJ4oP1boY5PrgcTdPTe8ak6lCzYOpSc1f32qr/jKPsFKb2JdB0r9RMVXm0dGRpe6Ui9T1rq2n3u5uhKXUdJOmb09caUkLcj3qvOE1k63XVtz/yzPUeWn8l9Blef9UkHu7+I6j8jeTi5uvuiKP0oHeozz+09Ky4Ej1RvKjKZ5bFZYH2Z4VGZxV3e7GSiyhPZzyM9rJaXuPlV25esekzpxUo8emJG1cdpA1kLoNZGa13J6Isl+Jk4EP12593q9k+tC7UfVzvvXUzueGwf9UyueKyS/6ePs9ZX+h1+vBuHK7/PPryrJ+7x5/uRx2bhZ9JS81QZZz177LHH/3Dvz31erTP+/D+y2Ey8LM483pmJ65w4z/cqhqpMRuIeZYDw7NV3ruKpzES1zmfmuvrO3ft65knLCZJi6YntyUck+8oeKli08FjRJ5eelnlbzxmHBuac7jxqlkeyhtT3j8zTew+jNCScgaocrPf5ke8gnk/t1aBictZDaD+c8bhYzK6FpHU9q6Flryru2dm9mcJkdl0h6gIEM8RZmZAHsfe5qiZw3l3I94/mJagzCJl3Vshh0TyQz6JziZb+VmrNOMIDmd+jz1JG/u/ovzj6Pgz+rHpM3aNU82CdA8z6eIQJO2dNZsHmMcqEoSONBbP+UGlg8XDkKqM80tYVmgf73mHWRLNzMtk+5eUza07Zv1D3S1hMeuskFCu0Xke/hJVfzzBBeYnSoY4fvQbQeYmrhqu+ntw6XHWtk0lvvjCjx9V/6+XhrBlV71PVSQge7jjZ71OdUQ4eCevTne+twAPpDaNGVdQFjL6ouoZizoOuaVrnQ2tQeDUzX+q9yuCBjE39rLMeU64D9h0/+lxaHp/OA+lZhbyezSPFy567uxIP5xpz1DXqvuLIOyoxSTijeuJJ6ZcwPE7R1fPbTEUeLV5X1KTgcV4bV2PEw6vnq7K441FFk7KecPKoNFr3V+tenR1qHipdPbH9PvcNXj0uxw==
+  </data>
+ </layer>
+ <layer name="physics" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T+1lC6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAbnEAAAQ==
+  </data>
+ </layer>
+</map>
